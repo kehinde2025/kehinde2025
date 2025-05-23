@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @kehinde2025
-- 👀 I’m interested in being a Frontend developer
-- 🌱 I’m currently learning to be a Full stack y
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me no my email address: webblock000@gmail.com or on WhatsApp: Message webblock on WhatsApp.https://wa.me/2349068063252 
-- 😄 Pronouns: isaac
-- ⚡ Fun fact: i build Mobile app too 
+# Hi, I'm [isaac] 👋
 
-<!---
-kehinde2025/kehinde2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a certified **Frontend Developer** with a focus on building modern, responsive web and mobile applications.
+
+### 🚀 What I’m Working On
+- Sharpening my skills in **CSS** and **JavaScript**
+- Building mobile apps with **React Native**
+- Developing real-world **SaaS projects**
+
+### 🛠️ Tools & Technologies
+- HTML, CSS, JavaScript
+- React Native
+- Git & GitHub
+
+### 🎯 Goals
+- Launch useful and beautiful web/mobile apps
+- Continue growing as a frontend developer
+- Collaborate on open-source and freelance projects
+
+### 📫 Let's Connect
+- Portfolio: [coming soon]
+- Twitter: [closing soon]
+- WhatsApp:[Message webblock on WhatsApp. https://wa.me/2349068063252]
+
+---
+
+Thanks for visiting my profile!
